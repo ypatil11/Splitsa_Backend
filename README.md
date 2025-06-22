@@ -1,1 +1,1 @@
-# Projects
+# Backend for Splitsa
